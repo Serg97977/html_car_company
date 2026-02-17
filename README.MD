@@ -53,17 +53,6 @@ Radio buttons for car color selection
 Email & phone validation
 
 
----
-
-##  Future Improvements
-
-
-Add CSS styling
-Improve layout using Flexbox
-Make responsive design
-Add JavaScript validation
-Connect backend in the future
-
 
 ---
 
@@ -72,10 +61,10 @@ Connect backend in the future
 **Sergey Norekyan**
 
 Junior Back-End Developer  
-Future Full-Stack Developer 
 
 ---
 
 ##  Contact
 
 If you have suggestions or feedback, feel free to reach out!
+
