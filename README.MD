@@ -11,8 +11,6 @@ The website includes:
 Damaged Cars
 New Cars
 Cars for Rent
-Cars from USA
-Contact Section
 Forms for customer information
 Embedded video
 Images with lazy loading
@@ -39,8 +37,6 @@ HTML5
 
 ---
 
-##  Project Structure
-[1:38 PM]---
 
 ##  Features
 
@@ -67,4 +63,5 @@ Junior Back-End Developer 
 ##  Contact
 
 If you have suggestions or feedback, feel free to reach out!
+
 
